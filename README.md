@@ -46,7 +46,7 @@ This work is fully research-backed and includes:
 | `Smart_Mirror_Creative_Brief.docx` | Editable Word version |
 | `Home_Workout_Search_Trends_Report.pdf` | Google Trends research report |
 | `/screenshots` | Supporting visual research (Instagram examples, competitor pages, market data, etc.) |
-| `/google-trend-home-workout` | Supporting Google trends keyword research (web search and YouTube search) |
+| `/google-trend-home-workout` | Raw Google Trends CSV exports used for analysis |
 
 ---
 
